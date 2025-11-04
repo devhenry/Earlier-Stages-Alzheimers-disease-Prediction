@@ -2,9 +2,6 @@
 Developed a predictive model that can identify the early stages of Alzheimer’s disease (AD)
 
 
-Predict the Earlier Stages of Alzheimer’s disease Machine Learning
-Predict the Earlier Stages of Alzheimer’s disease Machine Learning
-Posted on June 23, 2024 by Yugesh Verma
 The objective of this project is to develop a predictive model that can identify the early stages of Alzheimer’s disease (AD). Early diagnosis of AD can significantly improve the effectiveness of treatment and management strategies, potentially slowing the progression of the disease. This project will leverage machine learning techniques on various data sources, such as medical imaging, genetic data, and cognitive test results, to create an accurate and reliable prediction system.
 
 Background and Motivation
